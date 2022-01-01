@@ -1,0 +1,29 @@
+{
+  "name": "johnson-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startDev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorjohnson6/Johnson-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connorjohnson6/Johnson-Website/issues"
+  },
+  "homepage": "https://github.com/connorjohnson6/Johnson-Website#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-ejs-layouts": "^2.5.1",
+    "node": "^17.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
